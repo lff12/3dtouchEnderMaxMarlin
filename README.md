@@ -12,3 +12,5 @@ Also retains all babystepping etc. You need to add G29 command to your gcode som
 I set to default of 4 probes (i.e. 16 in total) which is slow so included both configuration.h files in case you want to alter it
 
 Please let me know if you want a version of this firmware with different settings, I might be able to accomodate.
+
+With credits to the eponymous "Chad" who created the original Ender Max firmware configs (as they are not open source). ALL of the code written for the stock is down to him - I've just set the configs for a clone bl touch sensor!
